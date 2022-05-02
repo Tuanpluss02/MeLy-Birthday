@@ -93,8 +93,6 @@ class _MyHomePageState extends State<MyHomePage> {
                     if (indexOfProduct == product.length) {
                       indexOfProduct = 0;
                     }
-                    // yourPrice = null;
-                    // result = "";
                   });
                 },
                 child: const Text('Next Product')),
